@@ -1,4 +1,4 @@
-Write-up Simple CTF on TryHackMe
+# Simple CTF on TryHackMe
 
 🎯 1. Introduction to the CTF
 
